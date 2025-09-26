@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Data Visualization Dashboard",
+  "description": "A modern React web application for visualizing real-time data streams with configurable warning thresholds, alerts, and historical data analysis. Features a sleek dark/light theme and interactive charts.",
+  "requestFramePermissions": []
+}
